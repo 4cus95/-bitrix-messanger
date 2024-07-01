@@ -1,0 +1,1 @@
+<?phpuse Bitrix\Main\Localization\Loc;echo Loc::getMessage('DENIED');

@@ -1,0 +1,1 @@
+<?php$MESS['OUTPUT_USER'] = '<b>Пользователь #USER_ID#:</b>';$MESS['EDIT'] = 'ред.';$MESS['REPLY'] = 'отв.';$MESS['DOWNLOAD_FILE'] = 'Скачать файл';
